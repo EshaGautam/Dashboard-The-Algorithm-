@@ -4,7 +4,7 @@ import { IoIosArrowForward } from "react-icons/io";
 import { IoArrowForward } from "react-icons/io5";
 import Necessarie from '../../../../assets/Necessarie.avif'
 import Mario from '../../../../assets/Mario.jpg'
-import Allergy from '../../../../assets/Allergy.webp'
+import Evion from '../../../../assets/Evion.jpg'
 
 
 const products = [
@@ -27,7 +27,7 @@ const products = [
     name: "Evion 250m1",
     price: "$25.70",
     oldPrice: "$32.7",
-    image: Allergy ,
+    image: Evion ,
   },
 ];
 

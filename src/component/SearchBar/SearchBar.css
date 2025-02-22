@@ -3,7 +3,7 @@
   justify-content: space-between;
   align-items: center;
   background: #f6f7fa;
-  padding: 1% 0 1% 1%;
+  padding: 1% 0 1% 2.5%;
   border-bottom: 1px solid #ddd;
   gap: 15px;
   width: 98%;
@@ -87,7 +87,7 @@ input::placeholder {
   display: flex;
   align-items: center;
   gap: 20px;
-  margin-left: 2rem;
+  margin-left: 4rem;
 }
 
 .notification-icon {
