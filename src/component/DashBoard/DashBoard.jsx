@@ -9,7 +9,7 @@ const DashBoard = () => {
     <div className='dashboard'>
       <div className='dashboard-header'>
         <h4>Welcome back</h4>
-        <h2>Jubid Aehmad</h2>
+        <h2>Jubed Ahemad</h2>
       </div>
       <div className='dashboard-card'>
       <DoctorCard/>
