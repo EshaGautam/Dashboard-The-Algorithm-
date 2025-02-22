@@ -1,0 +1,21 @@
+body {
+  background-color: #e7e8ea;
+}
+
+#main-div {
+  display: flex;
+  flex-direction: row;
+  margin: 0.5%;
+  background-color: #e4e6ea;
+  border-radius: 2rem;
+  height: 98vh;
+  overflow: hidden;
+}
+
+
+#combine-div {
+  flex: 1; 
+  border-radius: 0 2rem 2rem 0; 
+  background: #F6F7FA;
+  overflow: hidden; 
+}

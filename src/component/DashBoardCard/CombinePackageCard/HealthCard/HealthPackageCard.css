@@ -1,0 +1,78 @@
+.health-card-container {
+    border-radius: 10px;
+    width: 100%;
+  }
+  
+  .health-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+  }
+  
+  .health-card-header a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 12px;
+  }
+  
+  .health-card {
+    display: flex;
+    align-items: center;
+    background:#FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    justify-content: space-evenly;
+    height: 30%;
+    line-height: 1.5;
+  }
+  
+  .health-icon {
+    background: #007bff;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+  }
+
+  .health-info-div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .health-info {
+    flex: 1;
+    margin-left: 10px;
+  }
+  
+  .health-name {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .health-description {
+    font-size: 14px;
+    color: gray;
+  }
+  
+  .health-menu {
+    font-size: 15px;
+    color: gray;
+    margin-left: 10px;
+  }
+  .arrow-icon{
+    position: relative;
+     top:1px;
+    color: blue;
+  }
